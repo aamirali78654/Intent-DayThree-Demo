@@ -6,7 +6,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".Two.LayoutInflater_Practice">
+    tools:context=".Two.LayoutInflater_Practice"
+    android:background="#6CC6CF">
 
 
     <Button
